@@ -21,6 +21,7 @@ Para isso use o comando npm -v
 2 - Com o npm instalado rode o rode em seguida:
 
 npm i
+
 npm run dev
 
 ## Testando a aplicação - Endpoints
